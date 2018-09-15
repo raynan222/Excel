@@ -1,0 +1,12 @@
+1.  Inserir linha
+2.  Operações basicas entre celulas
+3.  Operações com percentagem
+4.  Uso de $ para congelar Coluna em referencia $C6->$C7(Vertical)////$C6->$C6(Horizontal)
+5.  Uso de $ para congelar Linha em referencia  C$6->C$6(Vertical)////D$6->D$6(Horizontal)
+6.  Uso de $ para congelar Ambos em referencia  $C$6->$C$6(Vertical)////$C$6->$C$6(Horizontal)
+7.  Uso de somatorio
+8.  Uso de formatação condicional
+9.  Uso de funções
+10. Criar função 'SE'
+11. Criar função 'E'
+12. Uso de função 'OU' dentro da função 'SE'
