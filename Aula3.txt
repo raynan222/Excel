@@ -1,2 +1,5 @@
 1.  Filtragem e classificação de dados.
 2.  Tabelas Dinamicas.
+3.  Uso do PROCV
+4.  Uso do PROCH
+5.  Criação de graficos a partir de tabelas com numeros em intervalos.
